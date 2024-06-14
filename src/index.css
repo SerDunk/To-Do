@@ -11,3 +11,12 @@
 .btn-animation{
     @apply transition ease-in-out delay-150
 }
+
+html{
+    min-height: 100vh;
+}
+
+body{
+    min-height: 100%;
+    overflow: hidden;
+}

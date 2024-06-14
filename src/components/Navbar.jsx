@@ -13,7 +13,7 @@ function Navbar() {
       </div>
       <div className="flex">
         <Link to="/todo">
-          <button className="btn mr-5 text-second font-roboto hover-all btn-animation">
+          <button className="btn mr-5 text-second hover-all btn-animation">
             Get Started
           </button>
         </Link>
